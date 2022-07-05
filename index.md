@@ -1,37 +1,8 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/RenatoFloresV/rick_and_morty/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/RenatoFloresV/rick_and_morty/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Vertical view of characters
+![Screenshot_2022-07-04-21-19-13-467_com example rick_and_morty](https://user-images.githubusercontent.com/68215023/177354312-460e12e4-e0e4-4f40-8118-b5b15a0dccec.jpg)
+Vertical view of character information
+![Screenshot_2022-07-04-21-19-20-679_com example rick_and_morty](https://user-images.githubusercontent.com/68215023/177354321-c4e8105d-05a3-4502-bb46-1b21a83a6c82.jpg)
+Horizontal view of characters
+![Screenshot_2022-07-04-21-19-51-464_com example rick_and_morty](https://user-images.githubusercontent.com/68215023/177354330-5d9e0008-36e1-47e2-b706-2adc40b8c26d.jpg)
+Horizontal view of character information
+![Screenshot_2022-07-04-21-20-06-006_com example rick_and_morty](https://user-images.githubusercontent.com/68215023/177354335-84df1112-22e0-4c0d-b785-5ea77735dd67.jpg)
