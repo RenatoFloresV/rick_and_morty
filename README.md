@@ -7,5 +7,13 @@
 <img src="https://user-images.githubusercontent.com/68215023/177455721-d069c143-f245-44eb-b4b6-020faf6a8752.jpg" height="200px"</img>
 </div>
 
+<div>
+<img src="https://user-images.githubusercontent.com/68215023/177455718-6adfb9b8-bff1-4c7c-9d16-c8de224effe3.jpg" height="200px"</img>
+<img src="https://user-images.githubusercontent.com/68215023/177455721-d069c143-f245-44eb-b4b6-020faf6a8752.jpg" height="200px"</img>
+</div>
+<div>
+<img src="https://user-images.githubusercontent.com/68215023/177455721-d069c143-f245-44eb-b4b6-020faf6a8752.jpg" height="200px"</img>
+</div>
+
 See screenshots:
 https://renatofloresv.github.io/rick_and_morty/
