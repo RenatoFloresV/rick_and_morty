@@ -1,3 +1,5 @@
+Repository link: https://github.com/RenatoFloresV/rick_and_morty
+
 # Vertical view of characters
 
 ![Screenshot_2022-07-04-21-19-13-467_com example rick_and_morty](https://user-images.githubusercontent.com/68215023/177354312-460e12e4-e0e4-4f40-8118-b5b15a0dccec.jpg)
